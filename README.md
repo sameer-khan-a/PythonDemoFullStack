@@ -1,4 +1,4 @@
-# Python Demo Full Stack
+# Python Demo Full Stack Batch
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
