@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Python Demo Full Stack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Python Demo Full Stack Scripts
 
 In the project directory, you can run:
 
